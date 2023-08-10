@@ -5,3 +5,4 @@
 <li>Sum of Array Elements</li>
 <li>Sum of Series</li>
 <li>Print alternate elements of an array</li>
+<li>Print 1 To N Without Loop</li>
