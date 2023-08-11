@@ -20,3 +20,5 @@
 <li>Print the pattern | Set-1</li>
 <li>Java Arrays | Set 1</li>
 <li>Average in a stream</li>
+
+### BASIC
