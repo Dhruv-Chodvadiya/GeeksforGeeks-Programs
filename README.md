@@ -22,3 +22,4 @@
 <li>Average in a stream</li>
 
 ### BASIC
+<li>Binary Search</li>
