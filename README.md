@@ -23,3 +23,4 @@
 
 ### BASIC
 <li>Binary Search</li>
+<li>Check if two arrays are equal or not</li>
