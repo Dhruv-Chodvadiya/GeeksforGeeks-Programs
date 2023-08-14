@@ -25,3 +25,7 @@
 <li>Binary Search</li>
 <li>Check if two arrays are equal or not</li>
 <li>Power of 2</li>
+<li>Reverse a String</li>
+<li>Search an Element in an array</li>
+<li>Find minimum and maximum element in an array</li>
+<li>Largest Element in Array</li>
