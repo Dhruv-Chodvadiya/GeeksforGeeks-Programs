@@ -29,3 +29,7 @@
 <li>Search an Element in an array</li>
 <li>Find minimum and maximum element in an array</li>
 <li>Largest Element in Array</li>
+<li>Print first n Fibonacci Numbers</li>
+<li>Prime Number</li>
+<li>Searching an element in a sorted array</li>
+<li>Immediate Smaller Element</li>
