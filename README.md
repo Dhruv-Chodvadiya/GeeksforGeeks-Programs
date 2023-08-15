@@ -33,3 +33,4 @@
 <li>Prime Number</li>
 <li>Searching an element in a sorted array</li>
 <li>Immediate Smaller Element</li>
+<li>Factorial</li>
