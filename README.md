@@ -35,3 +35,4 @@
 <li>Immediate Smaller Element</li>
 <li>Factorial</li>
 <li>Binary Array Sorting</li>
+<li>Sort The Array</li>
