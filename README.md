@@ -34,3 +34,4 @@
 <li>Searching an element in a sorted array</li>
 <li>Immediate Smaller Element</li>
 <li>Factorial</li>
+<li>Binary Array Sorting</li>
