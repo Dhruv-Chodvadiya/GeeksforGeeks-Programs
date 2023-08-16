@@ -36,3 +36,4 @@
 <li>Factorial</li>
 <li>Binary Array Sorting</li>
 <li>Sort The Array</li>
+<li>Third largest element</li>
