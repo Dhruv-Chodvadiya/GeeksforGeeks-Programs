@@ -39,3 +39,4 @@
 <li>Third largest element</li>
 <li>Last index of One</li>
 <li>Missing number</li>
+<li>Replace all 0's with 5</li>
