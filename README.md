@@ -37,3 +37,4 @@
 <li>Binary Array Sorting</li>
 <li>Sort The Array</li>
 <li>Third largest element</li>
+<li>Last index of One</li>
