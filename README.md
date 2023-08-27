@@ -41,3 +41,4 @@
 <li>Missing number</li>
 <li>Replace all 0's with 5</li>
 <li>Cyclically rotate an array by one</li>
+<li>Print Matrix in snake Pattern</li>
