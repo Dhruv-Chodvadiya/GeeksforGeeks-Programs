@@ -44,3 +44,4 @@
 <li>Print Matrix in snake Pattern</li>
 <li>Left Rotate Matrix K time</li>
 <li>Swapping Triangles</li>
+<li>Count Sorted Rows</li>
