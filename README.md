@@ -45,3 +45,4 @@
 <li>Left Rotate Matrix K time</li>
 <li>Swapping Triangles</li>
 <li>Count Sorted Rows</li>
+<li>Sums of i-th row and i-th column</li>
