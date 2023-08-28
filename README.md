@@ -43,3 +43,4 @@
 <li>Cyclically rotate an array by one</li>
 <li>Print Matrix in snake Pattern</li>
 <li>Left Rotate Matrix K time</li>
+<li>Swapping Triangles</li>
