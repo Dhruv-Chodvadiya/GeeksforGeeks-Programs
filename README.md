@@ -50,3 +50,4 @@
 <li>Squares in a Matrix</li>
 <li>Sorted_matrix</li>
 <li>closest number</li>
+<li>Balanced Array</li>
