@@ -53,3 +53,4 @@
 <li>Balanced Array</li>
 <li>Rotating an Array</li>
 <li>Ishaan Loves Chocolates</li>
+<li>Count zeros in a sorted matrix</li>
