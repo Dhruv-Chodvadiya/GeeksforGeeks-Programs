@@ -52,3 +52,4 @@
 <li>closest number</li>
 <li>Balanced Array</li>
 <li>Rotating an Array</li>
+<li>Ishaan Loves Chocolates</li>
