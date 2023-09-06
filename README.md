@@ -57,3 +57,4 @@
 <li>Multiply 2 matrices</li>
 <li>Index of first 1 in a sorted array of 0s and 1s</li>
 <li>Product of maximum in first array and minimum in second</li>
+<li>Multiply left and right array sum</li>
