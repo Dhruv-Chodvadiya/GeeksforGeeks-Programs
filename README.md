@@ -59,3 +59,4 @@
 <li>Product of maximum in first array and minimum in second</li>
 <li>Multiply left and right array sum</li>
 <li>Searching a number</li>
+<li>Find the smallest and second smallest element in an array</li>
