@@ -60,3 +60,4 @@
 <li>Multiply left and right array sum</li>
 <li>Searching a number</li>
 <li>Find the smallest and second smallest element in an array</li>
+<li>Maximize sum(arr[i]*i) of an Array</li>
