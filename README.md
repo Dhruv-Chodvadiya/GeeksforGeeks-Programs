@@ -61,3 +61,4 @@
 <li>Searching a number</li>
 <li>Find the smallest and second smallest element in an array</li>
 <li>Maximize sum(arr[i]*i) of an Array</li>
+<li>First element to occur k times</li>
