@@ -67,3 +67,4 @@
 <li>Exceptionally odd</li>
 <li>Union of two arrays</li>
 <li>Count Squares</li>
+<li>Check if strings are rotations of each other or not</li>
