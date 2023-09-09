@@ -65,3 +65,4 @@
 <li>Convert array into Zig-Zag fashion</li>
 <li>Product of array elements</li>
 <li>Exceptionally odd</li>
+<li>Union of two arrays</li>
