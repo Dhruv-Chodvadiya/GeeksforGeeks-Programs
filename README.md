@@ -64,3 +64,4 @@
 <li>First element to occur k times</li>
 <li>Convert array into Zig-Zag fashion</li>
 <li>Product of array elements</li>
+<li>Exceptionally odd</li>
