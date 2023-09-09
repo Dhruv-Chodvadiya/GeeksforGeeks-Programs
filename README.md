@@ -66,3 +66,4 @@
 <li>Product of array elements</li>
 <li>Exceptionally odd</li>
 <li>Union of two arrays</li>
+<li>Count Squares</li>
