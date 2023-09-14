@@ -21,6 +21,7 @@
 <li>Java Arrays | Set 1</li>
 <li>Average in a stream</li>
 <li>Toeplitz matrix</li>
+<li>Print the left element</li>
 
 ### BASIC
 <li>Binary Search</li>
