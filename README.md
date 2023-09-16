@@ -74,3 +74,4 @@
 
 ### EASY
 <li>Second Largest </li>
+<li>Rotate by 90 degree</li>
