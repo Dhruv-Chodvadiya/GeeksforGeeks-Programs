@@ -71,3 +71,6 @@
 <li>Check if strings are rotations of each other or not</li>
 <li>Middle of Three</li>
 <li>Quick Left Rotation</li>
+
+### EASY
+<li>Second Largest </li>
