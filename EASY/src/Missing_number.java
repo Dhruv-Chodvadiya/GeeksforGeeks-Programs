@@ -3,6 +3,7 @@ public class Missing_number {
         int[] arr={1,2,3,4,5};
         int n=arr.length;
         int val=missing(arr,n);
+        System.out.println(val);
     }
     public static int missing(int[] array,int n){
         int totalSum = n * (n + 1) / 2;
